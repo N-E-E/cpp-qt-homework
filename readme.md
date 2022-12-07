@@ -37,9 +37,7 @@ D:.
 │      stops.txt
 ```
 
-
-
-![](D:\Cpp_project\cpp-qt-homework\img\文件目录.png)
+![文件目录](img/文件目录.png)
 
 ## 设计架构
 
