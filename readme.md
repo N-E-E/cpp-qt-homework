@@ -34,7 +34,7 @@
 
 - 存在数据库里的站点信息只有这几个(可以自己添加到`organization.txt`)，如果没有任何关键字匹配到会选择🌸科~
 
-![站点数据库](D:\Cpp_project\cpp-qt-homework\img\站点数据库.png)
+![站点数据库](img/站点数据库.png)
 
 <img src="img/中文查询示范.gif" alt="中文查询示范" style="zoom:50%;" />
 
