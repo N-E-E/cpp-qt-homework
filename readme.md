@@ -1,7 +1,7 @@
 ## 运行环境
 
 - vs2022 + qt
-- 如果出现下图类似错误，请参考解决方法[找不到源文件解决方法](![img](file:///C:\Users\Mr.K\AppData\Roaming\Tencent\QQTempSys\%W@GJ$ACOF(TYDYECOKVDYB.png)https://blog.csdn.net/Love_Point/article/details/109104232)
+- 如果出现下图类似错误，请参考解决方法[找不到源文件解决方法](https://blog.csdn.net/Love_Point/article/details/109104232)
 
 <img src="img/找不到源文件.jpg" alt="找不到源文件" style="zoom: 50%;" />
 
